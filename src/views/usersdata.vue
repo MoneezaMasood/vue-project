@@ -106,7 +106,7 @@ export default {
                     </template>
                 </td>
                 <td>{{ user.id }}</td>
-                <td>{{ user.password }}</td>
+                <td>{{ user.password  }}</td>
                 <td>
                     <template v-if="editedUserId !== user.id">
                         <button style="font-weight: bold;" @click="editUser(user)">Update </button>&nbsp;
