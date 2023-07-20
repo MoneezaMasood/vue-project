@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "username": "Moneeza Masood",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "izza",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "username": "Ali",
+      "password": "lmn",
+      "id": 3
+    },
+    {
+      "username": "Meeza",
+      "password": "345",
+      "id": 4
+    },
+    {
+      "username": "evie",
+      "password": "56",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "Fname": "Moneeza",
+      "Lname": "Masood",
+      "fullname": "Moneeza Masood",
+      "qualification": "Student",
+      "CNIC": "34101",
+      "Gender": "female",
+      "mobileNo": "0"
+    },
+    {
+      "Fname": "Ali",
+      "Lname": "Masood",
+      "fullname": "Ali Masood",
+      "qualification": "Student",
+      "CNIC": "301",
+      "Gender": "male",
+      "mobileNo": "0321"
+    }
+  ],
+  "fishes": [
+    {
+      "id": 1,
+      "FishName": "cookie",
+      "FishType": "goldfish"
+    },
+    {
+      "id": 2,
+      "FishName": "a",
+      "FishType": "b"
+    }
+  ],
+  "update": [
+    {
+      "id": 1,
+      "username": "cookie",
+      "password": "goldfish"
+    }
+  ]
+}
